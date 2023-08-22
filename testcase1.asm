@@ -1,5 +1,4 @@
-; EE306 Lab6 Testcase 1
-; Same as lab document. 
+; Testcase 1
 ;   3 elements in main room(XY123, AB789, PQ567), 1 element in waiting room(MN483)
 ;     - Check for MN483, HI654, XY123
 
