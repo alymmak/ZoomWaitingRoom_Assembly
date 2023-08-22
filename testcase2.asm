@@ -1,4 +1,4 @@
-; EE306 Lab6 Testcase 2
+; Testcase 2
 ;   Empty main room, 1 element(XY123) in waiting room. 
 ;     - Check for XY123
 
