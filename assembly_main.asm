@@ -1,5 +1,4 @@
 ; Name: Alymuhammad Maknojia
-; EE 306: Lab 6
 ; This program determines if a student EID matches a list of student EIDs
 
 .ORIG x3000
